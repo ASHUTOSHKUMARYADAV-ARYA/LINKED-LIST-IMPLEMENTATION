@@ -192,3 +192,5 @@ void display(struct Node* head) {
 
 A linked list is an efficient data structure used for flexible memory management and fast insertions/deletions. Understanding linked lists is important for building more complex data structures and mastering algorithmic problem-solving. Though they may seem complex at first, linked lists offer a strong foundation for understanding how data is organized and manipulated in many real-world applications.
 
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/d97f5ce9-d744-4d06-ae87-5123b7b0a204)
